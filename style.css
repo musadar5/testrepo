@@ -1,4 +1,9 @@
 .line {
-  color: red;
-  font-size: 20px;
+  color: blue;
+  font-size: 50px;
+}
+
+p{
+    color: yellow;
+    font-size: 30px;
 }
